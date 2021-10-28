@@ -13,7 +13,7 @@ _Yep!_
 
 - 💞️ I am looking to collaborate on Vuejs, typescript and php projects. I want to improve myself every day on these technos ...
 
-- 📫 How to reach me ...
+- 📫 How to reach me _dguillin80@gmail.com_
 
 <!---
 davg80/davg80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
