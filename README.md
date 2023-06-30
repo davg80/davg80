@@ -4,9 +4,9 @@
 _Yep!_
 
 - 👀 I am a graduate designer and developer of applications, with a bachelor's degree in web and mobile development....
-```
-    I am eager to learn more about development and related concepts.....
-```
+
+***I am eager to learn more about development and related concepts.....***
+
 - 🌱 I have a strong interest in computer science, and some of my favorite languages include HTML, CSS, JS, PHP, SQL, and others, although I am not yet proficient in all of them. ...
 
 ## My preferences
